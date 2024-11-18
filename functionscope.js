@@ -23,4 +23,4 @@ function tweetData(a, b){
 }
 
 console.log(tweetData(5, 9));
-console.log(addition(5, 9));
+console.log(addition(5, 9)); // will give error - wrong scoped
